@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Gramli's github stats](https://github-readme-stats.vercel.app/api?username=gramli&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Gramli's github stats](https://github-readme-stats.vercel.app/api?username=gramli&count_private=true&show_icons=true&theme=transparent&hide_rank=false&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gramli&layout=compact)](https://github.com/gramli/github-readme-stats)
 
 <!---
 Gramli/Gramli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
