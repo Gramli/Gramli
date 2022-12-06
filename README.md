@@ -1,5 +1,3 @@
-**👋 Hi, I’m Gramli**
-
 [![Gramli's github stats](https://github-readme-stats.vercel.app/api?username=gramli&count_private=true&show_icons=true&theme=transparent&hide_rank=false&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
