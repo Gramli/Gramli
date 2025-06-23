@@ -1,6 +1,16 @@
-**Hi there :wave:**
+# 👋 Hi, I'm Daniel — Senior Fullstack Engineer
 
-I'am Daniel and I work as Senior Software Engineer mostly with .NET stack.
+I'm a Senior Fullstack Engineer specializing in **.NET (C#)** and **Angular**, with a strong focus on **Clean Architecture**, **CQRS**, and **cloud-native applications**. I care deeply about writing clean, testable code and designing scalable systems with proper separation of concerns and security in mind.
+
+### 📌 What I Care About
+- Designing maintainable and secure APIs
+- Applying Clean Code and SOLID principles
+- Writing tests that catch real bugs
+- Creating architecture that enables agility
+
+### 🌱 Currently
+- Exploring distributed systems and cloud-native patterns
+- Writing short posts about C#, architecture, Angular and database on my [Blog](https://gramli.github.io/)
 
 **My actual stack:**
 
