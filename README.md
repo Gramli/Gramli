@@ -13,7 +13,7 @@ I'm a Senior Fullstack Engineer specializing in **.NET (C#)** and **Angular**, w
 - Writing short posts about C#, architecture, Angular and database on my [Blog](https://gramli.github.io/)
 
 
-**My actual stack:**
+### 🧱 My actual stack:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kubernetes,docker,postgres,ts,angular,redis,jenkins)](https://skillicons.dev)
 
