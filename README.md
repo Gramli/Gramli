@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Daniel — Senior Fullstack Engineer
+# 👋 Hi, I'm Daniel — Senior Software Engineer
 
-I'm a Senior Fullstack Engineer specializing in **.NET (C#)** and **Angular**, with a strong focus on **Clean Architecture**, **CQRS** and building scalable web applications. I'm passionate about writing clean, testable code and designing maintainable systems with clear separation of concerns and strong security practices.
+I'm a Senior Software Engineer specializing in **.NET (C#)** and **Angular**, with a strong focus on **Clean Architecture**, **CQRS** and building scalable web applications. I'm passionate about writing clean, testable code and designing maintainable systems with clear separation of concerns and strong security practices.
 
 ### 📌 What I Care About
 - Designing maintainable and secure APIs
